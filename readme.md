@@ -1,6 +1,4 @@
-## React and Material UI boilerplate with Webpack 4.
-
-##### [Live Deployment on heroku](https://rbp-mui.herokuapp.com/)
+## Countries test.
 
 ### Features
 * Material UI
